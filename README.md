@@ -1,5 +1,5 @@
 # numberwang-station-sim
 
-[mehwang.glitch.me](mehwang.glitch.me)
+[http://mehwang.glitch.me](http://mehwang.glitch.me)
 
 Written with clojurescript + reagent
